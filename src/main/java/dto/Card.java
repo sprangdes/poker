@@ -12,7 +12,7 @@ import java.util.Random;
 @AllArgsConstructor
 public class Card {
 
-    private DeckOfCards.Suit suit;
+    private dto.DeckOfCards.Suit suit;
     private DeckOfCards.Rank rank;
 
     /**
